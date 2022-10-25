@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Maven+Pro:wght@400;500&family=Signika+Negative:wght@300;400;600;700&display=swap');
+
+
+
+body{
+    background-color: rgb(237, 237, 77);
+}
+
+
+
+
+
+.av{
+    font-family: 'Anton', sans-serif;
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px gray;
+}
+
+
+main{
+    font-family: 'Maven Pro',sans-serif ;
+}
+
+.ima{
+    width: 500px;
+    height: 300px;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px gray;
+    border-color: blueviolet;
+}
